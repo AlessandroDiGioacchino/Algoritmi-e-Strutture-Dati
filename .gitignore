@@ -1,15 +1,15 @@
 *.mp3
-algoegregi/
-Teoria/
-Laboratorio/Vecchio\ materiale/Decima\ settimana/
-Laboratorio/Vecchio\ materiale/Dodicesima\ settimana/
-Laboratorio/Vecchio\ materiale/Nona\ settimana/
-Laboratorio/Vecchio\ materiale/Ottava\ settimana/
-Laboratorio/Vecchio\ materiale/Quarta\ settimana/
-Laboratorio/Vecchio\ materiale/Quinta\ settimana/
-Laboratorio/Vecchio\ materiale/Seconda\ settimana/
-Laboratorio/Vecchio\ materiale/Sesta\ settimana/
-Laboratorio/Vecchio\ materiale/Settima\ settimana/
-Laboratorio/Vecchio\ materiale/Undicesima\ settimana/
+algoegregi/*
+Teoria/*
+Laboratorio/Vecchio\ materiale/Decima\ settimana/*
+Laboratorio/Vecchio\ materiale/Dodicesima\ settimana/*
+Laboratorio/Vecchio\ materiale/Nona\ settimana/*
+Laboratorio/Vecchio\ materiale/Ottava\ settimana/*
+Laboratorio/Vecchio\ materiale/Quarta\ settimana/*
+Laboratorio/Vecchio\ materiale/Quinta\ settimana/*
+Laboratorio/Vecchio\ materiale/Seconda\ settimana/*
+Laboratorio/Vecchio\ materiale/Sesta\ settimana/*
+Laboratorio/Vecchio\ materiale/Settima\ settimana/*
+Laboratorio/Vecchio\ materiale/Undicesima\ settimana/*
 Laboratorio/Vecchio\ materiale/simulazione.zip
 
